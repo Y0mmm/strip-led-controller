@@ -1,0 +1,57 @@
+#ifndef LED_CONFIG_H
+#define LED_CONFIG_H
+
+#include <stdint.h>
+
+#define MAX_DIM_LEVEL 56
+#define DIM_LEVELS_STEPS 3
+#define LED_DEFAULT_IS_ON 0U
+#define LED_DEFAULT_DIM_LEVEL 0
+#define LED_DEFAULT_HUE 60U
+#define LED_DEFAULT_SATURATION 1000U
+#define LED_DEFAULT_VALUE 1000U
+#define LED_DEFAULT_RED 1000U
+#define LED_DEFAULT_GREEN 1000U
+#define LED_DEFAULT_BLUE 1000U
+#define LED_PWM_FREQUENCY_CENTI_HZ 10000UL
+#define IR_REPEAT_ACTION_THRESHOLD 2U
+/* 3000 ticks at 100 ms from TIM1 gives a 300 s fade-to-off. */
+#define GO_TO_SLEEP_DURATION_TICKS 3000UL
+
+#define COMMAND_ON 0x03
+#define COMMAND_OFF 0x02
+#define COMMAND_DIM_UP 0x00
+#define COMMAND_DIM_DOWN 0x01
+#define COMMAND_RED 0x04
+#define COMMAND_GREEN 0x05
+#define COMMAND_BLUE 0x06
+#define COMMAND_WHITE 0x07
+#define COMMAND_ORANGE 0x10
+#define COMMAND_PINK_BARBIE 0x12
+#define COMMAND_YELLOW 0x14
+#define COMMAND_CYAN 0x15
+#define COMMAND_PINK 0x16
+#define COMMAND_GOTOSLEEP 0x17
+
+#define RED_H 0U
+#define RED_S 1000U
+#define GREEN_H 120U
+#define GREEN_S 1000U
+#define BLUE_H 240U
+#define BLUE_S 1000U
+#define WHITE_H 0U
+#define WHITE_S 0U
+#define ORANGE_H 18U
+#define ORANGE_S 1000U
+#define YELLOW_H 24U
+#define YELLOW_S 980U
+#define PINK_H 350U
+#define PINK_S 910U
+#define PINK_BARBIE_H 352U
+#define PINK_BARBIE_S 960U
+#define CYAN_H 180U
+#define CYAN_S 700U
+
+extern const uint16_t led_log_abacus[MAX_DIM_LEVEL + 1];
+
+#endif

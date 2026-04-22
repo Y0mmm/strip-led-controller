@@ -1,0 +1,14 @@
+#include "led_config.h"
+
+const uint16_t led_log_abacus[MAX_DIM_LEVEL + 1] = {
+  0U, 3U, 4U, 5U, 6U,  8U, 10U, 13U, 16U, 19U, 23U,
+  27U, 31U, 36U, 42U, 50U, 58U,
+  67U, 75U, 84U, 94U, 103U,
+  114U, 125U, 136U, 148U, 160U,
+  173U, 187U, 201U, 216U, 232U,
+  249U, 266U, 284U, 303U, 323U,
+  344U, 366U, 389U, 413U, 438U,
+  464U, 492U, 521U, 552U, 583U,
+  617U, 652U, 689U, 727U, 767U,
+  810U, 854U, 900U, 949U, 1000U
+};

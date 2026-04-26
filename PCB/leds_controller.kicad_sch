@@ -4161,7 +4161,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "560"
 			(at 132.08 63.4999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4241,7 +4241,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "47k"
 			(at 185.42 55.88 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4628,7 +4628,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1k"
 			(at 132.08 52.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4708,7 +4708,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "47k"
 			(at 135.89 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4864,7 +4864,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "47k"
 			(at 162.56 48.26 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5103,7 +5103,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "560"
 			(at 165.1 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5515,7 +5515,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1u"
 			(at 125.73 104.1399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5673,7 +5673,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "560"
 			(at 189.23 76.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5754,7 +5754,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1k"
 			(at 181.61 67.3099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5917,7 +5917,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "47k"
 			(at 160.02 106.6799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6332,7 +6332,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1k"
 			(at 158.75 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6643,7 +6643,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1k"
 			(at 173.99 97.79 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6723,7 +6723,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 128.27 78.7399 0)
 			(show_name no)
 			(do_not_autoplace no)

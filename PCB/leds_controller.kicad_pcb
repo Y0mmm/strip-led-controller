@@ -148,7 +148,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1u"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "876ab894-1c52-412a-a672-d6629e8be696")
@@ -352,7 +352,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "aff59299-b404-4039-91da-41bb682d9cc5")
@@ -1480,7 +1480,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "560"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "3a7357ed-ac54-4254-a4e5-3563bd0a97fe")
@@ -1684,7 +1684,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1k"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "8cf05da2-2501-4a50-95c8-9ce5b336100f")
@@ -1888,7 +1888,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1k"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "37e69e8f-9246-4f49-99e8-a316fad6e725")
@@ -2092,7 +2092,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1k"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "1421765e-fe57-4c99-bbc0-892223fd509c")
@@ -2554,7 +2554,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "47k"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "5338f8d0-6c84-4ea1-969e-342d983baffb")
@@ -3930,7 +3930,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "47k"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "f7e7c9c6-55bb-4af2-bc8e-739f0d37f28d")
@@ -4270,7 +4270,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "47k"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "7e932769-f7c0-45c8-8bcf-e033f8011c46")
@@ -4720,7 +4720,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1k"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "fa6f1d26-58e5-4f1c-a1f7-13da01897e59")
@@ -4924,7 +4924,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "560"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "7a3e9ff3-707a-42f6-b59b-0adfb43ce433")
@@ -5128,7 +5128,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "47k"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "b3f12f8e-eb4f-4f4f-9fdb-a7c6e7ef5246")
@@ -5908,7 +5908,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "560"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "7565dd0d-d0dd-4ba1-ad45-5ce87303e28c")
